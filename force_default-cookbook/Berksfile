@@ -1,0 +1,6 @@
+source 'https://supermarket.marchex.com'
+source 'https://supermarket.chef.io'
+
+cookbook 'default-cookbook', :path => '../default-cookbook'
+
+metadata
